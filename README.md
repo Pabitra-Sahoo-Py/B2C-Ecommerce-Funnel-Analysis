@@ -76,3 +76,4 @@ Primary and foreign keys were implemented to maintain referential integrity.
 
 ## 📷 Dashboard Preview
 
+![Dashboard Preview](Funnel_Analysis_Dashboard.png)
